@@ -50,7 +50,7 @@ console.log("O primeiro número é maior que o segundo?", resultado)
 resultado = num1 < num2
 console.log("O primeiro número é menor que o segundo?", resultado)
 
-//
+// 
 
 const a = 'Quero dirigir um Celta 2012';
 const b = 'Sou maior de idade';
